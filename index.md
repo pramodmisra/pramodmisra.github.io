@@ -2,14 +2,14 @@
 ---
 ### Insurance
 
-[Enterprise Data & AI Transformation — Snellings Walters Insurance Agency](/sample_page)
+[Enterprise Data & AI Transformation — Snellings Walters Insurance Agency](01_insurance_snellings)
 <img src="images/01_insurance_snellings.jpg?raw=true"/>
 
 Leading enterprise-wide data and AI transformation as Director of Data Analytics & AI Automation. Driving strategy, execution, and team building across analytics and AI initiatives.
 
 ---
 
-[MDM & Cloud Data Warehouse Migration — Tune Protect Insurance, APAC](/sample_page)
+[MDM & Cloud Data Warehouse Migration — Tune Protect Insurance, APAC](02_insurance_tuneprotect)
 <img src="images/02_insurance_tuneprotect.jpg?raw=true"/>
 
 End-to-end MDM implementation for a $260M market-cap insurer. Migrated on-premise to cloud, built data dictionary, and mapped data across underwriting, sales, and marketing. Delivered 50%+ CRM campaign efficacy and Power BI dashboards for daily/weekly/monthly reviews.
@@ -17,21 +17,21 @@ End-to-end MDM implementation for a $260M market-cap insurer. Migrated on-premis
 ---
 ### Pharma
 
-[AWS Redshift Migration & Cost Optimization — North America Pharma Company](/sample_page)
+[AWS Redshift Migration & Cost Optimization — North America Pharma Company](03_pharma_redshift)
 <img src="images/03_pharma_redshift.jpg?raw=true"/>
 
 Migrated data feeds, reports, and dashboards from on-premise warehouse to AWS Redshift. Developed SQL queries for feed generation and QC. Delivered ~$1.5M in operational savings through cross-functional coordination.
 
 ---
 
-[Post-Merger Data Standardization — Fortune 500 Pharma, Boston](/sample_page)
+[Post-Merger Data Standardization — Fortune 500 Pharma, Boston](04_pharma_merger)
 <img src="images/04_pharma_merger.jpg?raw=true"/>
 
 Resolved data conflicts arising from a biotech merger using an incremental agile approach. Built a data catalogue and dictionary in collaboration with business, tech, and vendor teams to deliver a standardized database migration.
 
 ---
 
-[Report Migration & Cross-Timezone Documentation — Global Pharma Company](/sample_page)
+[Report Migration & Cross-Timezone Documentation — Global Pharma Company](05_pharma_migration)
 <img src="images/05_pharma_migration.jpg?raw=true"/>
 
 Led report migration and data process mapping across 3 time zones for one of the largest global pharma companies. Created data flow diagrams, variable definitions, and end-user "how-to" guides to ensure smooth migration.
@@ -39,21 +39,21 @@ Led report migration and data process mapping across 3 time zones for one of the
 ---
 ### Telecom
 
-[Database Merger & AWS Cloud Migration](/sample_page)
+[Database Merger & AWS Cloud Migration](06_telecom_merger)
 <img src="images/06_telecom_merger.jpg?raw=true"/>
 
 Spearheaded the merger of two large databases ($1.8B & $1.2B market-cap companies) into a single AWS cloud database. Delivered complete documentation, data mapping, and migration — one month ahead of the set timeline.
 
 ---
 
-[Big Data Analytics & Business Intelligence — Vodafone](/sample_page)
+[Big Data Analytics & Business Intelligence — Vodafone](07_telecom_vodafone)
 <img src="images/07_telecom_vodafone.jpg?raw=true"/>
 
 General Manager at Vodafone with 20+ years of analytics and BI experience. Led analytics strategy and enterprise-level data initiatives across global telecom operations.
 
 ---
 
-[COVID-19 Contact Tracing — Anonymized Mobile Data](/sample_page)
+[COVID-19 Contact Tracing — Anonymized Mobile Data](08_telecom_covid)
 <img src="images/08_telecom_covid.jpg?raw=true"/>
 
 Developed a contact tracing solution using anonymized mobile data during the COVID-19 pandemic. Methodology published via AI Hub.
@@ -61,14 +61,14 @@ Developed a contact tracing solution using anonymized mobile data during the COV
 ---
 ### Startups & Entrepreneurship
 
-[Unifi.ai — Data Privacy Platform for Healthcare](/sample_page)
+[Unifi.ai — Data Privacy Platform for Healthcare](09_startup_unifi)
 <img src="images/09_startup_unifi.jpg?raw=true"/>
 
 Co-founded and served as Chief AI Officer at a health-tech startup building an automated data privacy compliance platform. Featured in Forbes, Entrepreneur, Inc., and other major publications. Georgia Tech CreateX 2022 cohort.
 
 ---
 
-[Indicina — AI-Driven Credit Scoring, Nigeria](/sample_page)
+[Indicina — AI-Driven Credit Scoring, Nigeria](10_startup_indicina)
 <img src="images/10_startup_indicina.jpg?raw=true"/>
 
 Analytics engineering consultant for a Nigerian credit-scoring startup. Built an AI-driven scoring model using bank and merchant transaction data, incorporating NLP for transaction segmentation and predictive scenario modeling.
